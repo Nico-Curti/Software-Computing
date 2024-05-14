@@ -1,0 +1,38 @@
+[project]
+name = 'cython_hello_world'
+version = '0.0.1'
+authors = [
+  { name='Nico Curti', email='nico.curti2@unibo.it' },
+]
+description = 'MWE for Cython build with scikit-build support'
+readme = 'README.md'
+requires-python = '>=3.5'
+classifiers = [
+  'Natural Language :: English',
+  'Operating System :: MacOS :: MacOS X',
+  'Operating System :: POSIX',
+  'Operating System :: POSIX :: Linux',
+  'Operating System :: Microsoft :: Windows',
+  'Programming Language :: Python',
+  'Programming Language :: Python :: 3',
+  'Programming Language :: Python :: 3.5',
+  'Programming Language :: Python :: 3.6',
+  'Programming Language :: Python :: 3.7',
+  'Programming Language :: Python :: 3.8',
+  'Programming Language :: Python :: Implementation :: CPython',
+  'Programming Language :: Python :: Implementation :: PyPy'
+]
+
+[project.urls]
+'Homepage' = 'localhost/sktest'
+'Bug Tracker' = 'localhost/sktest/issues'
+
+[build-system]
+requires = [
+  'setuptools>=42',
+  'scikit-build>=0.13',
+  'cmake>=3.18',
+  'Cython',
+  'ninja',
+]
+build-backend = 'setuptools.build_meta'

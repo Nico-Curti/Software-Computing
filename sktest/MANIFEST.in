@@ -1,0 +1,11 @@
+include *.md
+include LICENSE
+include CMakeLists.txt
+include *.txt
+include *.toml
+include *.in
+include include/*
+include src/*
+include cython_hello_world/lib/*.pxd
+include cython_hello_world/source/*.pyx
+include cython_hello_world/source/CMakeLists.txt
