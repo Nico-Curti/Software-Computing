@@ -31,7 +31,7 @@ Slides for the Programming Course of the Physics Department of the University of
   - OpenMP
   - Parallel computing in Python and C++
 
-* **Web API** ([slides](), [codes]())
+* **Web API** ([slides](https://github.com/Nico-Curti/Software-Computing/blob/main/notebook/04_webAPI.ipynb), [codes](https://github.com/Nico-Curti/Software-Computing/blob/main/web))
   - Web sockets
   - SQL and Java
   - API definition
@@ -46,4 +46,4 @@ These slides are related to the module of *Code Optimization* of the course, whi
 
 ### Authors
 
-* <img src="https://avatars0.githubusercontent.com/u/24650975?s=400&v=4" width="25px"> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="27px">](https://github.com/Nico-Curti), [<img src="https://cdn.rawgit.com/physycom/templates/697b327d/logo_unibo.png" width="25px">](https://www.unibo.it/sitoweb/nico.curti2) **Nico Curti**
+* <img src="https://avatars0.githubusercontent.com/u/24650975?s=400&v=4" width="25px"> [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="27px">](https://github.com/Nico-Curti) [<img src="https://cdn.rawgit.com/physycom/templates/697b327d/logo_unibo.png" width="25px">](https://www.unibo.it/sitoweb/nico.curti2) **Nico Curti**
